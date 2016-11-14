@@ -1,0 +1,40 @@
+baseurl = "http://sec.ecomp.poli.br/"
+languageCode = "en-us"
+title = ""
+Copyright = "CAEC - Centro Acadêmico de Engenharia da Computação, POLI/UPE - 2016"
+
+[[menu.main]]
+    name = "Início"
+    weigth = 0
+    identifier = "home"
+    url = "http://sec.ecomp.poli.br/"
+
+[[menu.main]]
+    name = "Introdução"
+    weight = 1
+    identifier = "introducao"
+    url = "http://sec.ecomp.poli.br/introducao"
+
+[[menu.main]]
+    name = "Calendário"
+    weight = 2
+    identifier = "calendario"
+    url = "http://sec.ecomp.poli.br/calendario"
+
+[[menu.main]]
+    name = "Voluntários"
+    weight = 3
+    identifier = "voluntarios"
+    url = "http://sec.ecomp.poli.br/voluntarios"
+
+[[menu.main]]
+    name = "Inscrições"
+    weight = 4
+    identifier = "inscricoes"
+    url = "http://sec.ecomp.poli.br/inscricoes"
+
+[params]
+    logo = "images/icon.png"
+    cover = "images/cover.png"
+    TabTitle = "SEC"
+    hideHUGOSupport = true

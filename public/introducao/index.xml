@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introducao-rsses on </title>
+    <link>http://sec.ecomp.poli.br/introducao/index.xml</link>
+    <description>Recent content in Introducao-rsses on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>CAEC - Centro Acadêmico de Engenharia da Computação, POLI/UPE - 2016</copyright>
+    <lastBuildDate>Fri, 23 Sep 2016 19:58:22 -0300</lastBuildDate>
+    <atom:link href="http://sec.ecomp.poli.br/introducao/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Introdução</title>
+      <link>http://sec.ecomp.poli.br/introducao/</link>
+      <pubDate>Fri, 23 Sep 2016 19:58:22 -0300</pubDate>
+      
+      <guid>http://sec.ecomp.poli.br/introducao/</guid>
+      <description>&lt;p&gt;No ano de 2016, será realizado o &lt;strong&gt;SEC&lt;/strong&gt;, que em sua 15ª edição, contará com palestras, mesas redondas, campeonatos e competições.&lt;/p&gt;
+
+&lt;p&gt;Terá como tema &lt;strong&gt;Futurismo - da ficção para realidade&lt;/strong&gt; e ocorrerá nos dias &lt;em&gt;21 a 25 de novembro&lt;/em&gt;.&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
