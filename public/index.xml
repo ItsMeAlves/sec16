@@ -7,8 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CAEC - Centro Acadêmico de Engenharia da Computação, POLI/UPE - 2016</copyright>
-    <lastBuildDate>Mon, 14 Nov 2016 10:55:16 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 16 Nov 2016 07:14:02 -0300</lastBuildDate>
     <atom:link href="http://sec.ecomp.poli.br/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Palestras</title>
+      <link>http://sec.ecomp.poli.br/post/palestras/</link>
+      <pubDate>Wed, 16 Nov 2016 07:14:02 -0300</pubDate>
+      
+      <guid>http://sec.ecomp.poli.br/post/palestras/</guid>
+      <description>&lt;p&gt;&lt;br&gt;
+Participe! Palestras são ótimos meios para discussão de novas ideias e geração de conteúdo. Se é do seu interesse, inscreva-se &lt;a href=&#34;http://ingenia.serdigital.com.br/safetyarea/login/&#34; target=&#34;_blank&#34;&gt;aqui&lt;/a&gt;
+&lt;br&gt;
+Detalhes da inscrição:
+* Investimento: R$15,00
+* Período: 18 / 11&lt;/p&gt;
+
+&lt;p&gt;Aproveite!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Workshops</title>
@@ -126,6 +143,7 @@ Esperamos que todos gostem!&lt;/p&gt;
 &lt;li&gt;III Campeonato de Programação - &lt;a href=&#34;http://sec.ecomp.poli.br/post/iii-campeonato-programacao&#34;&gt;veja mais!&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Robots Champions League - &lt;a href=&#34;https://robotschampionsleague.github.io/&#34; target=&#34;_blank&#34;&gt;participe!&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Workshops - &lt;a href=&#34;http://sec.ecomp.poli.br/post/workshops&#34;&gt;veja mais!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Palestras - &lt;a href=&#34;http://sec.ecomp.poli.br/post/palestras&#34;&gt;aqui&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr/&gt;

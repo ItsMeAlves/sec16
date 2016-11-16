@@ -11,5 +11,6 @@ Aqui estão as inscrições abertas atualmente. Vamos lá, participe, o futuro e
 * III Campeonato de Programação - <a href="/post/iii-campeonato-programacao">veja mais!</a>
 * Robots Champions League - <a href="https://robotschampionsleague.github.io/" target="_blank">participe!</a>
 * Workshops - <a href="/post/workshops">veja mais!</a>
+* Palestras - <a href="/post/palestras">aqui</a>
 
 <hr/>
