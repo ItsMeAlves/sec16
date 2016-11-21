@@ -7,4 +7,4 @@ image = "calendario/images/solar.png"
 
 ![Calendário SEC 2016](images/programacao.jpg)
 
-Obs: <a href="images/programacao.jpg">Clique aqui</a> para ver a imagem completa caso esteja encontrando problemas com a resolução.
+Obs: <a href="images/programacao.jpg" target="_blank">Clique aqui</a> para ver a imagem completa caso esteja encontrando problemas com a resolução.
