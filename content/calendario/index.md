@@ -5,4 +5,6 @@ title = "Calendário"
 image = "calendario/images/solar.png"
 +++
 
-Em breve, divulgaremos o calendário oficial do SEC 2016. Aguarde!
+![Calendário SEC 2016](images/programacao.jpg)
+
+Obs: <a href="images/programacao.jpg">Clique aqui</a> para ver a imagem completa caso esteja encontrando problemas com a resolução.
